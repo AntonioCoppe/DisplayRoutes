@@ -1,0 +1,16 @@
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.deps.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.runtimeconfig.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.runtimeconfig.dev.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.dll
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.pdb
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.csproj.AssemblyReference.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.AssemblyInfoInputs.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.AssemblyInfo.cs
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.csproj.CoreCompileInputs.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.dll
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/refint/DisplayRoutes.dll
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.pdb
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.genruntimeconfig.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/ref/DisplayRoutes.dll

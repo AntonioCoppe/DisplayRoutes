@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QkcO8iL6WgOcWQ2o8sbqjrgKN3eSaynwcHvMVWy0rg2nb7jI4Gdb7d3vS2h2Eu4ZF5l/sHJMv2ZlGVKOWrQpw==",
+  "success": true,
+  "projectFilePath": "/Users/coppe/DisplayRoutes/DisplayRoutes.csproj",
+  "expectedPackageFiles": [
+    "/Users/coppe/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
