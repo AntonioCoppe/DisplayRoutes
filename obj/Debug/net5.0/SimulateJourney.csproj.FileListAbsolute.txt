@@ -1,0 +1,16 @@
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/SimulateJourney
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/SimulateJourney.deps.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/SimulateJourney.runtimeconfig.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/SimulateJourney.runtimeconfig.dev.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/SimulateJourney.dll
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/SimulateJourney.pdb
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/SimulateJourney.csproj.AssemblyReference.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/SimulateJourney.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/SimulateJourney.AssemblyInfoInputs.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/SimulateJourney.AssemblyInfo.cs
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/SimulateJourney.csproj.CoreCompileInputs.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/SimulateJourney.dll
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/refint/SimulateJourney.dll
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/SimulateJourney.pdb
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/SimulateJourney.genruntimeconfig.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/ref/SimulateJourney.dll

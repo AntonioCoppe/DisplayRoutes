@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coppe/DisplayRoutes/BusTimes.csproj",
-      "projectName": "BusTimes",
-      "projectPath": "/Users/coppe/DisplayRoutes/BusTimes.csproj",
+      "projectUniqueName": "/Users/coppe/DisplayRoutes/SimulateJourney.csproj",
+      "projectName": "SimulateJourney",
+      "projectPath": "/Users/coppe/DisplayRoutes/SimulateJourney.csproj",
       "packagesPath": "/Users/coppe/.nuget/packages/",
       "outputPath": "/Users/coppe/DisplayRoutes/obj/",
       "projectStyle": "PackageReference",

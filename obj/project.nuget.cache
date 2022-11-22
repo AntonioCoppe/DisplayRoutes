@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nekg/5YzWgOTcOjFSh6O7SUE5GiUV560JSuJShCoPSrZMFs64FG5xz0VZgovwizuR9BowInp9VMozQKpGKFkUA==",
+  "dgSpecHash": "omHsH2Fm/RbW1P9dsA7jaS8ircdwrww5AH5OCgzgm0r6Nilaqarj5Ys8+hAPpw7t0ho/AgukrhrsbEcAEsEX/A==",
   "success": true,
-  "projectFilePath": "/Users/coppe/DisplayRoutes/BusTimes.csproj",
+  "projectFilePath": "/Users/coppe/DisplayRoutes/SimulateJourney.csproj",
   "expectedPackageFiles": [
     "/Users/coppe/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],

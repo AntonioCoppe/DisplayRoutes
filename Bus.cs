@@ -27,9 +27,9 @@ namespace Pluralsight.ArraysCollections.Demos
             if (_passengers.Count == 0)
                 return;
 
-            LinkedListNode<Passenger> currentNode = _passengers.First;
+            LinkedListNode<Passenger>? currentNode = _passengers.First;
             do{
-                LinkedListNode<Passenger> nextNode = currentNode.Next;
+                LinkedListNode<Passenger>? nextNode = currentNode.Next;
                 if (currentNode.Value.Destination == place)
                 {
                     Console.WriteLine($"{currentNode.Value} is getting off");
