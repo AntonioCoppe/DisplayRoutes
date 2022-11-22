@@ -1,0 +1,16 @@
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/BusTimes
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/BusTimes.deps.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/BusTimes.runtimeconfig.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/BusTimes.runtimeconfig.dev.json
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/BusTimes.dll
+/Users/coppe/DisplayRoutes/bin/Debug/net5.0/BusTimes.pdb
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/BusTimes.csproj.AssemblyReference.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/BusTimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/BusTimes.AssemblyInfoInputs.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/BusTimes.AssemblyInfo.cs
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/BusTimes.csproj.CoreCompileInputs.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/BusTimes.dll
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/refint/BusTimes.dll
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/BusTimes.pdb
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/BusTimes.genruntimeconfig.cache
+/Users/coppe/DisplayRoutes/obj/Debug/net5.0/ref/BusTimes.dll

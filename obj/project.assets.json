@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coppe/DisplayRoutes/DisplayRoutes.csproj",
-      "projectName": "DisplayRoutes",
-      "projectPath": "/Users/coppe/DisplayRoutes/DisplayRoutes.csproj",
+      "projectUniqueName": "/Users/coppe/DisplayRoutes/BusTimes.csproj",
+      "projectName": "BusTimes",
+      "projectPath": "/Users/coppe/DisplayRoutes/BusTimes.csproj",
       "packagesPath": "/Users/coppe/.nuget/packages/",
       "outputPath": "/Users/coppe/DisplayRoutes/obj/",
       "projectStyle": "PackageReference",
